@@ -5,7 +5,7 @@ I am always ready to listen to interesting and new suggestions. < >👨🏻‍�
 <h1 align="center">Hi I'm Gor! 👋</h1>
 
 <p align="center">
-  <b>🚀 I am a middle full-stack developer 👨🏻‍💻</b>
+  <b>🚀 I'm a middle full-stack developer 👨🏻‍💻</b>
 </p>
 
 ---
