@@ -12,10 +12,10 @@ I am always ready to listen to interesting and new suggestions. < >👨🏻‍�
 ## 🔹 About Me
 
 <ul>
-  <li>  🎨 **I am always ready to listen to interesting and new suggestions. < >👨🏻‍💻🎓⚛</>  </li>  
+  <li>  🎨 **I'm always ready to listen to interesting and new suggestions. < >👨🏻‍💻🎓⚛</>  </li>  
   <li>  💻 **Skills:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, PHP, Databases </li>  
-  <li>  🌍 **I am looking for a job**՝ as **Middle Full-Stack Developer** </li>  
-  <li>  📩 **I am open to cooperation, ready to hear new and interesting suggestions!**  </li>  
+  <li>  🌍 **I'm looking for a job**՝ as **Middle Full-Stack Developer** </li>  
+  <li>  📩 **I'm open to cooperation, ready to hear new and interesting suggestions!**  </li>  
 </ul>
 
 ---
