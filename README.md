@@ -1,5 +1,3 @@
-I am always ready to listen to interesting and new suggestions. < >👨🏻‍💻🎓⚛</>
-
 ---
 
 <h1 align="center">Hi I'm Gor! 👋</h1>
